@@ -1,5 +1,4 @@
 # odin-recipes
-TOP First Project
 This is my first project from TOP.
 The goal of this project is to build a simple website that displays a collection of recipes using only **HTML** (and later I may add some CSS).  
 
